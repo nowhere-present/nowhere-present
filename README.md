@@ -1,5 +1,5 @@
 <a href="https://tokscale.ai/u/nowhere-present">
-  <img src="https://raw.githubusercontent.com/nowhere-present/nowhere-present/main/assets/profile.svg?v=4d06cdb8a549" alt="hyunjae — AI coding activity, model mix, token usage, and Tokscale rank #200 by all-time tokens" width="1000">
+  <img src="https://raw.githubusercontent.com/nowhere-present/nowhere-present/main/assets/profile.svg?v=28679e9d1a9a" alt="hyunjae — AI coding activity, model mix, token usage, and Tokscale rank #203 by all-time tokens" width="1000">
 </a>
 
 <p align="center">
